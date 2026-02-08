@@ -1,7 +1,7 @@
 
   # Forester App Design
 
-  This is a code bundle for Forester App Design. The original project is available at https://www.figma.com/design/51i7kq71FpS3WWa9uBASMM/Forester-App-Design.
+  This is a code bundle for Forester App Design. The original project is available at (https://www.figma.com/make/51i7kq71FpS3WWa9uBASMM/Forester-App-Design?p=f&t=9RLIRGR71ymVU8Hd-0&fullscreen=1)
 
   ## Running the code
 
